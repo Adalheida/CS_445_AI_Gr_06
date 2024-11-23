@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP-PC\\source\\repos\\WindowsApp\\",
+  "WorkspaceRootPath": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|c:\\users\\hp-pc\\source\\repos\\windowsapp\\windowsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|e:\\duy t\u00E2n\\n\u0103m 4\\\u0111\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_cs445\\gruop-06\\project_group_06_udgd\\windowsapp\\windowsapp\\windowsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,19 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HP-PC\\source\\repos\\WindowsApp\\WindowsApp\\Form1.cs",
+              "DocumentMoniker": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\WindowsApp\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsApp\\Form1.cs",
-              "ToolTip": "C:\\Users\\HP-PC\\source\\repos\\WindowsApp\\WindowsApp\\Form1.cs [Design]",
+              "ToolTip": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\WindowsApp\\Form1.cs [Design]",
               "RelativeToolTip": "WindowsApp\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-15T11:50:03.201Z",
