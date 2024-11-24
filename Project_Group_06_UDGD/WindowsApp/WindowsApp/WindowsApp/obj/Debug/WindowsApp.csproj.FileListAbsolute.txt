@@ -1,0 +1,15 @@
+E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\bin\Debug\Database1.mdf
+E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\bin\Debug\Database1_log.ldf
+E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe.config
+E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\bin\Debug\WindowsApp.exe
+E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\bin\Debug\WindowsApp.pdb
+E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csproj.AssemblyReference.cache
+E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.frm_login.resources
+E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.frm_Menu.resources
+E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.Properties.Resources.resources
+E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csproj.GenerateResource.cache
+E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.csproj.CoreCompileInputs.cache
+E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.exe
+E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.pdb
+E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.AdminDashBoard.resources
+E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\obj\Debug\WindowsApp.frm_UserAdd.resources

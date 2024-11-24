@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|e:\\duy t\u00E2n\\n\u0103m 4\\\u0111\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_cs445\\gruop-06\\project_group_06_udgd\\windowsapp\\windowsapp\\windowsapp\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\windowsapp\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|e:\\duy t\u00E2n\\n\u0103m 4\\\u0111\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_cs445\\gruop-06\\project_group_06_udgd\\windowsapp\\windowsapp\\windowsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|e:\\duy t\u00E2n\\n\u0103m 4\\\u0111\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_cs445\\gruop-06\\project_group_06_udgd\\windowsapp\\windowsapp\\windowsapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|e:\\duy t\u00E2n\\n\u0103m 4\\\u0111\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_cs445\\gruop-06\\project_group_06_udgd\\windowsapp\\windowsapp\\windowsapp\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\frm_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|e:\\duy t\u00E2n\\n\u0103m 4\\\u0111\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_cs445\\gruop-06\\project_group_06_udgd\\windowsapp\\windowsapp\\windowsapp\\frm_useradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\frm_useradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|e:\\duy t\u00E2n\\n\u0103m 4\\\u0111\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_cs445\\gruop-06\\project_group_06_udgd\\windowsapp\\windowsapp\\windowsapp\\frm_useradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\frm_useradd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "frm_login.cs",
-              "DocumentMoniker": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\WindowsApp\\frm_login.cs",
-              "RelativeDocumentMoniker": "WindowsApp\\frm_login.cs",
-              "ToolTip": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\WindowsApp\\frm_login.cs",
-              "RelativeToolTip": "WindowsApp\\frm_login.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Title": "frm_UserAdd.cs",
+              "DocumentMoniker": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\WindowsApp\\frm_UserAdd.cs",
+              "RelativeDocumentMoniker": "WindowsApp\\frm_UserAdd.cs",
+              "ToolTip": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\WindowsApp\\frm_UserAdd.cs",
+              "RelativeToolTip": "WindowsApp\\frm_UserAdd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:54:30.191Z",
+              "WhenOpened": "2024-11-24T11:34:16.407Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_UserAdd.cs [Design]",
+              "DocumentMoniker": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\WindowsApp\\frm_UserAdd.cs",
+              "RelativeDocumentMoniker": "WindowsApp\\frm_UserAdd.cs",
+              "ToolTip": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\WindowsApp\\frm_UserAdd.cs [Design]",
+              "RelativeToolTip": "WindowsApp\\frm_UserAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:29:01.291Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\WindowsApp\\Program.cs",
-              "RelativeDocumentMoniker": "WindowsApp\\Program.cs",
-              "ToolTip": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\WindowsApp\\Program.cs",
-              "RelativeToolTip": "WindowsApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "AdminDashBoard.cs [Design]",
+              "DocumentMoniker": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\WindowsApp\\AdminDashBoard.cs",
+              "RelativeDocumentMoniker": "WindowsApp\\AdminDashBoard.cs",
+              "ToolTip": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\WindowsApp\\AdminDashBoard.cs [Design]",
+              "RelativeToolTip": "WindowsApp\\AdminDashBoard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:52:27.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T08:33:26.248Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frm_login.cs [Design]",
-              "DocumentMoniker": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\WindowsApp\\frm_login.cs",
-              "RelativeDocumentMoniker": "WindowsApp\\frm_login.cs",
-              "ToolTip": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\WindowsApp\\frm_login.cs [Design]",
-              "RelativeToolTip": "WindowsApp\\frm_login.cs [Design]",
+              "Title": "frm_Menu.cs [Design]",
+              "DocumentMoniker": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\WindowsApp\\frm_Menu.cs",
+              "RelativeDocumentMoniker": "WindowsApp\\frm_Menu.cs",
+              "ToolTip": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\WindowsApp\\WindowsApp\\WindowsApp\\frm_Menu.cs [Design]",
+              "RelativeToolTip": "WindowsApp\\frm_Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-15T11:50:03.201Z",
+              "WhenOpened": "2024-11-24T07:47:01.872Z",
               "EditorCaption": " [Design]"
             }
           ]
