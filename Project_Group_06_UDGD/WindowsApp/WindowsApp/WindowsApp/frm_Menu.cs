@@ -39,5 +39,17 @@ namespace WindowsApp
                 this.Hide();
             }
         }
+
+        private void btn_khachhang_Click(object sender, EventArgs e)
+        {
+            frm_addcustomer cus = new frm_addcustomer();
+            cus.Show();
+        }
+
+        private void btn_nhanvien_Click(object sender, EventArgs e)
+        {
+            frm_UserAdd uadd = new frm_UserAdd();
+            uadd.Show();
+        }
     }
 }

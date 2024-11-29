@@ -13,7 +13,7 @@ namespace WindowsApp
         SqlConnection conn;
         public LopDungChung()
         {
-            string chuoikn = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\Database1.mdf;Integrated Security=True";
+            string chuoikn = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\Duy Tân\Năm 4\Đồ án chuyên ngành_CS445\Gruop-06\Project_Group_06_UDGD\WindowsApp\WindowsApp\WindowsApp\QuanLyBanGiay.mdf;Integrated Security=True";
             conn = new SqlConnection(chuoikn);
         }
 
