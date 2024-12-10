@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\QLBG\\WindowsApp\\WindowsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|e:\\duy t\u00E2n\\n\u0103m 4\\\u0111\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_cs445\\gruop-06\\project_group_06_udgd\\qlbg\\windowsapp\\windowsapp\\windowsapp\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\frm_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\QLBG\\WindowsApp\\WindowsApp\\windowsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A612F5-B8FD-45AD-B0AD-A89D37D79BD2}|WindowsApp\\WindowsApp.csproj|solutionrelative:windowsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\QLBG\\WindowsApp\\WindowsApp\\WindowsApp\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsApp\\Program.cs",
+              "ToolTip": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\QLBG\\WindowsApp\\WindowsApp\\WindowsApp\\Program.cs",
+              "RelativeToolTip": "WindowsApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:25:10.887Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_Menu.cs [Design]",
+              "DocumentMoniker": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\QLBG\\WindowsApp\\WindowsApp\\WindowsApp\\frm_Menu.cs",
+              "RelativeDocumentMoniker": "WindowsApp\\frm_Menu.cs",
+              "ToolTip": "E:\\Duy T\u00E2n\\N\u0103m 4\\\u0110\u1ED3 \u00E1n chuy\u00EAn ng\u00E0nh_CS445\\Gruop-06\\Project_Group_06_UDGD\\QLBG\\WindowsApp\\WindowsApp\\WindowsApp\\frm_Menu.cs [Design]",
+              "RelativeToolTip": "WindowsApp\\frm_Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:11:36.741Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
